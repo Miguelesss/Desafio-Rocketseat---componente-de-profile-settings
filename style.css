@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;700&display=swap');
+
+body {
+    background: linear-gradient( to right, #935fd3, #924fd1);
+}
+
+main {
+    width: 375px;
+    background-color: #fdfcfe;
+    margin: 72px auto 112px auto;
+    border-radius: 12px;
+    border: 1px solid #f4effa;
+}
+
+#card {
+    margin: 24px 24px 16px 24px;
+}
+
+#user {
+    display: flex;
+    height: 48px;
+}
+
+#profile {
+    margin:auto 0px auto 16px;
+}
+
+#username {
+    font: normal bold 18px heebo, sans-serif;
+    color: #38343D;
+}
+
+#email {
+    font: normal 400 14px heebo, sans-serif;
+    color: #686071;
+}
+
+#options {
+    margin-top: 24px;
+    font: normal 400 16px heebo, sans-serif;
+    color: #38343d;
+}
+
+.divider {
+    width: 327px;
+    height: 0px;
+    border: 1px solid #f4effa;
+}
+
+.text {
+    font: normal 400 12px heebo, sans-serif;
+    color: #797085;
+    margin-top: 16px; 
+}
+
+.list {
+    margin: 12px 0px 16px 0px;
+}
+
+.itens {
+    display: flex;
+    height: 36px;
+}
+
+#list2 {
+    margin-top: 12px; 
+}
+
+spen {
+    margin:8px 8px 8px 0px;
+    padding-bottom: 10px;
+    line-height: 20px;
+    width: 275px;
+}
+
+.icons {
+    margin: 8px 8px 8px 0px;
+}
+
+#signout {
+    color: #aa2222;
+}
