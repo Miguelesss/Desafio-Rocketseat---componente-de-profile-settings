@@ -1,11 +1,4 @@
 # Desafio Rocketseat: componente de profile settings
-<style>
-    p {
-        text-indent: 20px;
-        padding-left: 20px; 
-        text-align: justify;
-    }
-</style>
 <h2>
     &#x1F680 Tecnologias Utilizadas
 </h2>
@@ -21,5 +14,5 @@
     🖊️Descrição 
 </h2>
 <P>
-    Esta página, apesar de ser bastante simples de ser construída conhecendo as ferramentas certas, é um componente que o layout não deve ser negligenciado por conta 
+    Esta página, apesar de ser bastante simples de ser construída conhecendo as ferramentas certas, é um componente que o layout não deve ser negligenciado por conta importância na conexão com o cliente.
 </p>
